@@ -28,7 +28,8 @@ The main objective is to uncover hidden structures in disaster data and classify
 - Source: EM-DAT (Emergency Events Database)  
 - Organisation: Centre for Research on the Epidemiology of Disasters (CRED)  
 - Coverage: 2020–2025  
-- Link: https://www.emdat.be  
+- Dataset Access (GitHub): https://tinyurl.com/46au5vy8
+- Official EM-DAT Platform: https://www.emdat.be
 
 ---
 
